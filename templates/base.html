@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="/static/css/pure/pure-min.css">
+    <link rel="stylesheet" href="/static/css/pure/grids-responsive-min.css">
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+        <div class="header">
+            <h1 class="brand-title">Proyecto Flask Pyhton</h1>
+            <h2 class="brand-tagline">Ejemplos para aprender flask</h2>
+        </div>
+		
+    </div>
+	
+        <div class="content pure-u-1 pure-u-md-3-4">
+            {% block encabezado %}
+            <!-- Cabecera específica de cada página -->
+            {% endblock %}
+        
+
+            <main class="main-content">
+                {% block contenido %}
+                <!-- Contenido específico -->
+                {% endblock %}
+            </main>
+        
+        </div>
+
+</div>
+
+</body>
+</html>

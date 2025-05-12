@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Inicio{% endblock %}
+
+{% block encabezado %}
+<header class="centered-header">
+    <h1>Bienvenido al buscador</h1>
+</header>
+{% endblock %}
+
+{% block contenido %}
+<div class="form-container">
+    <form action="" method="POST" class="pure-form centered-form">
+        <input type="text" name="busqueda" placeholder="Buscar xxx..." required class="pure-input-rounded">
+        <button type="submit" class="pure-button pure-button-primary">
+            Buscar
+        </button>
+    </form>
+</div>
+{% endblock %}

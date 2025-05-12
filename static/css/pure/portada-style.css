@@ -1,0 +1,20 @@
+body {
+    background-color: blueviolet;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh; /* Ocupa toda la altura de la pantalla */
+}
+
+/* Contenedor centrado con Flexbox */
+.centrado {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 100vh; /* Misma altura que el viewport */
+}
+
+/* Opcional: Ajustes para la imagen (si es necesario) */
+.centrado img {
+    max-width: 100%; /* Responsive */
+    height: auto; /* Mantiene proporciones */
+}
