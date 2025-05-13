@@ -1,0 +1,34 @@
+{
+  "lugares_naturales_impresionantes": [
+    {
+      "nombre": "Gran Cañón",
+      "ubicación": "Estados Unidos",
+      "característica": "Profundo desfiladero tallado por el río Colorado.",
+      "tipo": "Cañón"
+    },
+    {
+      "nombre": "Auroras Boreales",
+      "ubicación": "Círculo Polar Ártico",
+      "característica": "Luces naturales en el cielo causadas por partículas solares.",
+      "tipo": "Fenómeno natural"
+    },
+    {
+      "nombre": "Cataratas del Iguazú",
+      "ubicación": "Argentina y Brasil",
+      "característica": "Una de las cascadas más grandes y espectaculares del mundo.",
+      "tipo": "Cascada"
+    },
+    {
+      "nombre": "Monte Everest",
+      "ubicación": "Nepal y Tíbet",
+      "característica": "La montaña más alta del planeta, con 8,848 metros.",
+      "tipo": "Montaña"
+    },
+    {
+      "nombre": "Gran Barrera de Coral",
+      "ubicación": "Australia",
+      "característica": "El mayor sistema de arrecifes de coral del mundo.",
+      "tipo": "Arrecife"
+    }
+  ]
+}

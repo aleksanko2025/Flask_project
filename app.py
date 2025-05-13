@@ -10,5 +10,12 @@ def portada():
 def inicio():
     return render_template("inicio.html") 
 
+@app.route('/resultados')
+def resultados():
+    return render_template("listas.html")
+
+@app.route('/detalles')
+def detalles():
+    return render_template("detalles.html")
 
 app.run("0.0.0.0",5000,debug=True)
