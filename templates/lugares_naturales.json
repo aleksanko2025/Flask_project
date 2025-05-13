@@ -4,31 +4,155 @@
       "nombre": "Gran Cañón",
       "ubicación": "Estados Unidos",
       "característica": "Profundo desfiladero tallado por el río Colorado.",
-      "tipo": "Cañón"
+      "tipo": "Cañón",
+      "foto_url": "/static/img/canon.jpg"
     },
     {
-      "nombre": "Auroras Boreales",
-      "ubicación": "Círculo Polar Ártico",
-      "característica": "Luces naturales en el cielo causadas por partículas solares.",
-      "tipo": "Fenómeno natural"
+      "nombre": "Parque Nacional Yellowstone",
+      "ubicación": "Estados Unidos",
+      "característica": "El primer parque nacional del mundo, conocido por sus géiseres y fauna.",
+      "tipo": "Parque Nacional",
+      "foto_url": "/static/img/yellowstone.jpg"
     },
     {
       "nombre": "Cataratas del Iguazú",
-      "ubicación": "Argentina y Brasil",
+      "ubicación": "Argentina",
       "característica": "Una de las cascadas más grandes y espectaculares del mundo.",
-      "tipo": "Cascada"
+      "tipo": "Cascada",
+      "foto_url": "/static/img/iguazu.jpg"
+    },
+    {
+      "nombre": "Glaciar Perito Moreno",
+      "ubicación": "Argentina",
+      "característica": "Un glaciar famoso por su estabilidad y su imponente tamaño.",
+      "tipo": "Glaciar",
+      "foto_url": "/static/img/glaciar.jpg"
+    },
+    {
+      "nombre": "Auroras Boreales",
+      "ubicación": "Polo Norte",
+      "característica": "Luces naturales en el cielo causadas por partículas solares.",
+      "tipo": "Fenómeno natural",
+      "foto_url": "/static/img/aurora.jpg"
     },
     {
       "nombre": "Monte Everest",
-      "ubicación": "Nepal y Tíbet",
+      "ubicación": "Nepal",
       "característica": "La montaña más alta del planeta, con 8,848 metros.",
-      "tipo": "Montaña"
+      "tipo": "Montaña",
+      "foto_url": "/static/img/everest.jpg"
+    },
+    {
+      "nombre": "Lago Rara",
+      "ubicación": "Nepal",
+      "característica": "Uno de los lagos más grandes del país, situado a gran altura.",
+      "tipo": "Lago",
+      "foto_url": "/static/img/rara.jpg"
     },
     {
       "nombre": "Gran Barrera de Coral",
       "ubicación": "Australia",
       "característica": "El mayor sistema de arrecifes de coral del mundo.",
-      "tipo": "Arrecife"
+      "tipo": "Arrecife",
+      "foto_url": "/static/img/coral.jpg"
+    },
+    {
+      "nombre": "Playa de Whitehaven",
+      "ubicación": "Australia",
+      "característica": "Una de las playas más hermosas con arena blanca pura.",
+      "tipo": "Playa",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Parque Nacional Banff",
+      "ubicación": "Canadá",
+      "característica": "Bosques y lagos cristalinos en las Montañas Rocosas.",
+      "tipo": "Parque Nacional",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Cataratas Victoria",
+      "ubicación": "Zambia",
+      "característica": "Una de las cascadas más grandes del mundo, ubicada en el río Zambeze.",
+      "tipo": "Cascada",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Isla de Komodo",
+      "ubicación": "Indonesia",
+      "característica": "Hogar de los famosos dragones de Komodo.",
+      "tipo": "Isla",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Arenales de Namibia",
+      "ubicación": "Namibia",
+      "característica": "Dunas de arena roja que alcanzan los 300 metros de altura.",
+      "tipo": "Desierto",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Cueva de Postojna",
+      "ubicación": "Eslovenia",
+      "característica": "Una de las cavernas más grandes de Europa, conocida por su sistema de túneles.",
+      "tipo": "Cueva",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Islas Galápagos",
+      "ubicación": "Ecuador",
+      "característica": "Un archipiélago único con especies endémicas.",
+      "tipo": "Archipiélago",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Monte Kilimanjaro",
+      "ubicación": "Tanzania",
+      "característica": "El pico más alto de África, con una altura de 5,895 metros.",
+      "tipo": "Montaña",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Parque Nacional Torres del Paine",
+      "ubicación": "Chile",
+      "característica": "Montañas, glaciares y lagos en la Patagonia chilena.",
+      "tipo": "Parque Nacional",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Cataratas de Angel",
+      "ubicación": "Venezuela",
+      "característica": "La cascada más alta del mundo, con 979 metros de altura.",
+      "tipo": "Cascada",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Parque Nacional Kruger",
+      "ubicación": "Sudáfrica",
+      "característica": "Un refugio para la fauna africana, famoso por su vida salvaje.",
+      "tipo": "Parque Nacional",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Isla de Pascua",
+      "ubicación": "Chile",
+      "característica": "Famosa por sus estatuas Moai y su rica cultura polinesia.",
+      "tipo": "Isla",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Parque Nacional Yosemite",
+      "ubicación": "Estados Unidos",
+      "característica": "Conocido por sus gigantescos acantilados de granito y cascadas.",
+      "tipo": "Parque Nacional",
+      "foto_url": "/static/img/canon.jpg"
+    },
+    {
+      "nombre": "Valle de los Reyes",
+      "ubicación": "Egipto",
+      "característica": "Antiguo sitio funerario de faraones egipcios.",
+      "tipo": "Valle",
+      "foto_url": "/static/img/canon.jpg"
     }
   ]
 }

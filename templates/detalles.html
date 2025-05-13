@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Inicio{% endblock %}
+
+{% block encabezado %}
+<p><strong>Características:</strong> {{ lugar.característica }}</p>
+{% endblock %}
+
+{% block contenido %}
+<img src="{{ lugar.foto_url }}" alt="Foto de {{ lugar.nombre }}" style="max-width: 100%; height: auto;">
+{% endblock %}
