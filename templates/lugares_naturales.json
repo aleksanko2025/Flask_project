@@ -61,98 +61,98 @@
       "ubicación": "Australia",
       "característica": "Una de las playas más hermosas con arena blanca pura.",
       "tipo": "Playa",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/whitehaven.jpg"
     },
     {
       "nombre": "Parque Nacional Banff",
       "ubicación": "Canadá",
       "característica": "Bosques y lagos cristalinos en las Montañas Rocosas.",
       "tipo": "Parque Nacional",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/banff.jpg"
     },
     {
       "nombre": "Cataratas Victoria",
       "ubicación": "Zambia",
       "característica": "Una de las cascadas más grandes del mundo, ubicada en el río Zambeze.",
       "tipo": "Cascada",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/victoria.jpg"
     },
     {
       "nombre": "Isla de Komodo",
       "ubicación": "Indonesia",
       "característica": "Hogar de los famosos dragones de Komodo.",
       "tipo": "Isla",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/komodo.jpg"
     },
     {
       "nombre": "Arenales de Namibia",
       "ubicación": "Namibia",
       "característica": "Dunas de arena roja que alcanzan los 300 metros de altura.",
       "tipo": "Desierto",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/arenales.jpg"
     },
     {
       "nombre": "Cueva de Postojna",
       "ubicación": "Eslovenia",
       "característica": "Una de las cavernas más grandes de Europa, conocida por su sistema de túneles.",
       "tipo": "Cueva",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/postojna.jpg"
     },
     {
       "nombre": "Islas Galápagos",
       "ubicación": "Ecuador",
       "característica": "Un archipiélago único con especies endémicas.",
       "tipo": "Archipiélago",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/galapagos.jpg"
     },
     {
       "nombre": "Monte Kilimanjaro",
       "ubicación": "Tanzania",
       "característica": "El pico más alto de África, con una altura de 5,895 metros.",
       "tipo": "Montaña",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/montek.jpg"
     },
     {
       "nombre": "Parque Nacional Torres del Paine",
       "ubicación": "Chile",
       "característica": "Montañas, glaciares y lagos en la Patagonia chilena.",
       "tipo": "Parque Nacional",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/paine.jpg"
     },
     {
       "nombre": "Cataratas de Angel",
       "ubicación": "Venezuela",
       "característica": "La cascada más alta del mundo, con 979 metros de altura.",
       "tipo": "Cascada",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/angel.jpg"
     },
     {
       "nombre": "Parque Nacional Kruger",
       "ubicación": "Sudáfrica",
       "característica": "Un refugio para la fauna africana, famoso por su vida salvaje.",
       "tipo": "Parque Nacional",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/kruger.jpg"
     },
     {
       "nombre": "Isla de Pascua",
       "ubicación": "Chile",
       "característica": "Famosa por sus estatuas Moai y su rica cultura polinesia.",
       "tipo": "Isla",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/pascua.jpg"
     },
     {
       "nombre": "Parque Nacional Yosemite",
       "ubicación": "Estados Unidos",
       "característica": "Conocido por sus gigantescos acantilados de granito y cascadas.",
       "tipo": "Parque Nacional",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/yosemite.jpg"
     },
     {
       "nombre": "Valle de los Reyes",
       "ubicación": "Egipto",
       "característica": "Antiguo sitio funerario de faraones egipcios.",
       "tipo": "Valle",
-      "foto_url": "/static/img/canon.jpg"
+      "foto_url": "/static/img/reyes.jpg"
     }
   ]
 }
