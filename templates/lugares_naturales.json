@@ -8,7 +8,7 @@
       "foto_url": "/static/img/canon.jpg"
     },
     {
-      "nombre": "Parque Nacional Yellowstone",
+      "nombre": "Parque Yellowstone",
       "ubicación": "Estados Unidos",
       "característica": "El primer parque nacional del mundo, conocido por sus géiseres y fauna.",
       "tipo": "Parque Nacional",
@@ -82,7 +82,7 @@
       "ubicación": "Indonesia",
       "característica": "Hogar de los famosos dragones de Komodo.",
       "tipo": "Isla",
-      "foto_url": "/static/img/komodo.jpg"
+      "foto_url": "/static/img/komodo2.png"
     },
     {
       "nombre": "Arenales de Namibia",
@@ -113,7 +113,7 @@
       "foto_url": "/static/img/montek.jpg"
     },
     {
-      "nombre": "Parque Nacional Torres del Paine",
+      "nombre": "Parque Torres del Paine",
       "ubicación": "Chile",
       "característica": "Montañas, glaciares y lagos en la Patagonia chilena.",
       "tipo": "Parque Nacional",
@@ -127,7 +127,7 @@
       "foto_url": "/static/img/angel.jpg"
     },
     {
-      "nombre": "Parque Nacional Kruger",
+      "nombre": "Parque Kruger",
       "ubicación": "Sudáfrica",
       "característica": "Un refugio para la fauna africana, famoso por su vida salvaje.",
       "tipo": "Parque Nacional",
@@ -141,7 +141,7 @@
       "foto_url": "/static/img/pascua.jpg"
     },
     {
-      "nombre": "Parque Nacional Yosemite",
+      "nombre": "Parque Yosemite",
       "ubicación": "Estados Unidos",
       "característica": "Conocido por sus gigantescos acantilados de granito y cascadas.",
       "tipo": "Parque Nacional",

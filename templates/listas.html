@@ -1,24 +1,26 @@
 {% extends "base.html" %}
-{% block title %}Inicio{% endblock %}
+{% block title %}Listas{% endblock %}
 
 {% block encabezado %}
 <header class="centered-header">
-    <h1>Resultados para "{{ ubicacion }}"</h1>
+    <h1 style="margin: 3rem;">Resultados para "{{ ubicacion }}"</h1>
 </header>
 {% endblock %}
 
 {% block contenido %}
 {% if lugares %}
-    <ul>
-      {% for lugar in lugares %}
-        <li>
-           <strong>{{ lugar.nombre }}</strong> - {{ lugar.ubicación }} - 
-           Tipo: {{ lugar.tipo }} <a href="{{ url_for('detalles', lugar_nombre=lugar.nombre) }}">Ver</a>
-        </li>
-      {% endfor %}
-    </ul>
+    <ul class="lista-lugares">
+  {% for lugar in lugares %}
+    <li class="item-lugar">
+      <span class="nombre"><strong>{{ lugar.nombre }}</strong></span>
+      <span class="ubicacion">{{ lugar.ubicación }}</span>
+      <span class="tipo">Tipo: {{ lugar.tipo }}</span>
+      <a class="ver-link" href="{{ url_for('detalles', lugar_nombre=lugar.nombre) }}">Ver</a>
+    </li>
+  {% endfor %}
+</ul>
   {% else %}
     <p>No se encontraron lugares para esa ubicación.</p>
   {% endif %}
-  <a href="inicio">Volver al buscador</a>
+  <a href="{{ url_for('inicio') }}" class="pure-button volver-boton">⟵ Volver al buscador</a>
 {% endblock %}
