@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 import json
+
 app = Flask(__name__)	
 
 
@@ -47,5 +48,8 @@ def detalles(lugar_nombre):
         return render_template('detalles.html', lugar=lugar)
     else:
         return "Lugar no encontrado", 404
+
+if __name__ == "__main__":
+    app.run(debug=True)
 
 app.run("0.0.0.0",5000,debug=True)
