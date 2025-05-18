@@ -15,7 +15,7 @@
       <span class="nombre"><strong>{{ lugar.nombre }}</strong></span>
       <span class="ubicacion">{{ lugar.ubicación }}</span>
       <span class="tipo">Tipo: {{ lugar.tipo }}</span>
-      <a class="ver-link" href="{{ url_for('detalles', lugar_nombre=lugar.nombre) }}">Ver</a>
+      <a class="pure-button volver-boton" href="{{ url_for('detalles', lugar_nombre=lugar.nombre) }}">Ver mas</a>
     </li>
   {% endfor %}
 </ul>

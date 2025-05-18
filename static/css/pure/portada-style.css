@@ -1,5 +1,9 @@
 body {
-    background-color: blueviolet;
+    background-image: url('/static/img/backmain4.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
     margin: 0;
     padding: 0;
     min-height: 100vh; /* Ocupa toda la altura de la pantalla */
