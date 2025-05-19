@@ -1,6 +1,6 @@
 # 🌍 Buscador de Atractivos Turísticos
 
-Este es un proyecto desarrollado con **Flask** que permite a los usuarios buscar **atractivos turísticos** según el **destino** que indiquen. La aplicación consulta una base de datos o API (según implementación) y devuelve una lista de lugares recomendados para visitar en la ciudad o país seleccionado.
+Este es un proyecto desarrollado con **Flask** que permite a los usuarios buscar **atractivos turísticos** según el **destino** que indiquen. La aplicación consulta una base de datos en formato JSON y devuelve una lista de lugares recomendados para visitar en la ciudad o país seleccionado.
 
 ## 🧭 ¿Cómo funciona?
 
